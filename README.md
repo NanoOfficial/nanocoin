@@ -1,0 +1,2 @@
+# nanocoin
+Nano CryptoCurrency
