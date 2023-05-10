@@ -5,7 +5,7 @@
  * @version 0.1
  * @date 2023-05-09
  * 
- * @copyright Copyright (c) 2023 Krisna Pranav, NanoBlocksDevelopers
+ * @copyright Copyright (c) 2023 MIT-LICENSE Krisna Pranav, NanoBlocksDevelopers
  * 
  */
 
