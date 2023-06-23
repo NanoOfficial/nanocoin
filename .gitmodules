@@ -1,0 +1,9 @@
+[submodule "modules/boost"]
+	path = modules/boost
+	url = https://github.com/boostorg/boost/
+[submodule "modules/cpptoml"]
+	path = modules/cpptoml
+	url = https://github.com/cryptocode/cpptoml
+[submodule "modules/cryptopp"]
+	path = modules/cryptopp
+	url = https://github.com/weidai11/cryptopp
