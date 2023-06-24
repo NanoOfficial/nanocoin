@@ -1,3 +1,14 @@
+aclocal.m4
+
+autom4te.cache/
+
+build-aux/
+
+configure
+
 .DS_Store
 
 .vscode/
+.idea/
+
+build/
