@@ -7,3 +7,6 @@
 [submodule "modules/cryptopp"]
 	path = modules/cryptopp
 	url = https://github.com/weidai11/cryptopp
+[submodule "modules/flatbuffers"]
+	path = modules/flatbuffers
+	url = https://github.com/google/flatbuffers/
