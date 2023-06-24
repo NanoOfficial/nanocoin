@@ -2,7 +2,7 @@
  * @file buffer.hpp
  * @author Krisna Pranav
  * @brief Buffer 
- * @version 0.1
+ * @version 1.0
  * @date 2023-06-24
  * 
  * @copyright Copyright (c) 2023 Krisna Pranav, NanoBlocksDevelopers
