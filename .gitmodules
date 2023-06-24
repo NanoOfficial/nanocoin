@@ -10,3 +10,18 @@
 [submodule "modules/flatbuffers"]
 	path = modules/flatbuffers
 	url = https://github.com/google/flatbuffers/
+[submodule "modules/diskhash"]
+	path = modules/diskhash
+	url = https://github.com/now-wallet/diskhash
+[submodule "modules/magic_enum"]
+	path = modules/magic_enum
+	url = https://github.com/Neargye/magic_enum
+[submodule "modules/miniupnp"]
+	path = modules/miniupnp
+	url = https://github.com/miniupnp/miniupnp
+[submodule "modules/phc-winner-argon2"]
+	path = modules/phc-winner-argon2
+	url = https://github.com/now-wallet/phc-winner-argon2
+[submodule "modules/rocksdb"]
+	path = modules/rocksdb
+	url = https://github.com/facebook/rocksdb
